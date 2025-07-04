@@ -2,6 +2,11 @@
 
 A Bayesian spatial risk assessment using Intrinsic Conditional Autoregressive (ICAR) modeling to analyze suicide risk patterns across Lower Layer Super Output Areas (LSOAs) in Cornwall, England.
 
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="RelativeRisk.png" alt="Relative Risk" style="width: 100%;">
+</div>
+
 ## Project Overview
 
 This project investigates the spatial variation in suicide risk across Cornwall County using a Zero-Inflated Negative Binomial (ZINB) model with spatial random effects. Cornwall presents a unique case study as it recorded the second-highest suicide counts in 2022 despite being only the 40th most populous county in England.
